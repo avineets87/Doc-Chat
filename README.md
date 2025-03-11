@@ -90,9 +90,7 @@ The project consists of three main Jupyter notebooks, each focusing on a differe
 
 4. Open and execute the doc_chatbot.ipynb notebook.
 
-5. Open and execute the 03_chatbot_model_evaluation.ipynb notebook.
-
-    - ![User Interface](Images/userinterface.png)
+5. Open and execute the 03_chatbot_model_evaluation.ipynb notebook.    
 
 ### High-level logic contained in notebooks:
 
