@@ -1,0 +1,12 @@
+[
+    {
+        "query": "What is attention?",
+        "expected": "The capital of France is Paris.",
+        "generated": "Attention is a mechanism that involves mapping a query and a set of key-value pairs to an output, where all these elements are vectors. It is a fundamental concept in the Transformer model, a type of attention-based model, where self-attention is used to relate different positions of a single sequence and compute its representation.\n\nSelf-attention, or intra-attention, can make models more interpretable by providing insights into the attention distributions. The model's attention is sharp for specific words, as demonstrated in the provided knowledge.\n\nThe Transformer model has shown promising results, and there are plans to extend its applications to various input and output modalities beyond text."
+    },
+    {
+        "query": "What all is taught in AI Course?",
+        "expected": "William Shakespeare wrote Hamlet.",
+        "generated": "The AI Course mentioned in the provided knowledge seems to be an intensive bootcamp-style program covering a wide range of topics related to Artificial Intelligence and Machine Learning. Here's an overview of what is taught in this course:\n\n**Section 1: Programming for AI**\n- Introduction to AI and its impact.\n- Python fundamentals, focusing on data manipulation for AI models.\n- Making predictions using data.\n\n**Section 2: Machine Learning**\n- Unsupervised and Supervised Machine Learning techniques.\n- Natural Language Processing (NLP).\n- Time Series Forecasting.\n- AI Applications.\n\n**Section 3: AI Innovations**\n- AI Ethics and Data Regulations.\n- Advanced topics in AI and Machine Learning, including complex neural networks and deep learning.\n- Transformers.\n\nThe course emphasizes practical, technical skills and marketable technologies, ensuring students can apply their knowledge to real-world problems. Each section concludes with a group project, allowing students to collaborate and apply their newly acquired skills."
+    }
+]
