@@ -184,7 +184,7 @@ The project consists of three main Jupyter notebooks, each focusing on a differe
    - Enhance evaluation methods with automated scoring and feedback integration.
 
 ## Presentation
-[DocuBot: AI-Powered Document Q&A](https://docs.google.com/presentation/d/1STbSevV1XgbDg_f8974oY2_6xoFWdhtb0KH11qPrusQ/edit#slide=id.g33f4a22ffdb_0_10)
+[DocuBot: AI-Powered Document Q&A](https://docs.google.com/presentation/d/11ocqx-NdmOseZ2DZvC19bxNAUQ7NzIQlBpVbtEqV-d8/edit?usp=sharing)
 
 ## The Team
 
