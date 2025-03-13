@@ -129,8 +129,6 @@ The project consists of three main Jupyter notebooks, each focusing on a differe
       -   Convert the input into an embedding using the same model as document embeddings.
       -   Retrieve the most relevant document chunks from the vector database.
 
-      ![User Interface](doc-chat.png)
-
    4. Generate a Response with RAG
       -   Send the retrieved document context + user query to a large language model (e.g., OpenAI GPT-4).
       -   Generate a response using the LLM, enriched with retrieved document data.
@@ -138,6 +136,9 @@ The project consists of three main Jupyter notebooks, each focusing on a differe
    5. Display Results in a Chat Interface
       -   Format and present the AI-generated response to the user.
       -   Allow users to continue the conversation iteratively.
+
+       ![User Interface](doc-chat.png)
+
 
 #### 3. 03_chatbot_model_evaluation.ipynb: Model Performance & Evaluation
 
